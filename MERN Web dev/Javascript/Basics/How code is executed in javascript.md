@@ -4,4 +4,14 @@
 3. JavaScript is used for client side scripting i.e it runs on user's web browser.
 4. It is used to create dynamic and interactive webpages.
 
-	
+### JavaScript Execution Context
+
+JavaScript Execution Context is the environment in which code is executed. It contains information about functions, variables and objects as well as scope chain. 
+
+					EXECUTION CONTEXT 
+							|
+							|
+			--------------------------------------
+			|                                    |
+	CREATION PHASE                          EXECUTION PHASE
+
