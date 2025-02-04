@@ -26,3 +26,12 @@ JavaScript engine sets up the environment. Engine creates the following:
 		  |                      |                          |
 	VARIABLE OBJECT        THE SCOPE CHAIN          THE "THIS" KEYWORD
 
+
+#### The Variable Object (VO)
+Contains all variables and functions that are defined in the current scope. i.e. function declaration, function argument and variable declaration. VO is used to resolve identifiers to their values during execution.
+
+#### Scope Chain
+It is a list of variable that is definedd under the current scope.
+
+
+
