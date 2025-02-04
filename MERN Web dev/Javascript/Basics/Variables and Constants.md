@@ -11,5 +11,7 @@ Note - variable can also be created without using any of the keywords, but it is
 
 variables are used to create a memory space which can be used to store data.
 
-If a value is not 
+If value of variable is not defined then:
+1. using console.log() will give a reference error and value will be undefined.
+2. using console.table([]) will not give error instead value of the variable will be printed as undefined.
 
