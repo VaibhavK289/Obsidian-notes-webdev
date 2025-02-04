@@ -8,10 +8,21 @@
 
 JavaScript Execution Context is the environment in which code is executed. It contains information about functions, variables and objects as well as scope chain. 
 
-					EXECUTION CONTEXT 
-							|
-							|
+					   EXECUTION CONTEXT 
+							  |
+							  |
 			--------------------------------------
 			|                                    |
 	CREATION PHASE                          EXECUTION PHASE
+
+#### Creation Phase 
+JavaScript engine sets up the environment. Engine creates the following:
+
+
+						CREATION PHASE
+							  |
+							  |
+		  ---------------------------------------------------
+		  |                      |                          |
+	VARIABLE OBJECT        THE SCOPE CHAIN          THE "THIS" KEYWORD
 
