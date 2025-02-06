@@ -30,6 +30,22 @@ CSS - Cascading Style Sheet
 #### Classes in css
 class name starts with a . in css. It is used to bundle up different elements and apply same changes within them.
 
+# Selectors in CSS 
+
+1. Universal Selector
+	- * {    } - this symbol is used to select all the html elements on the webpage. Generally used to remove any margins and padding given by the browser.
+2. Type Selector 
+	- we can type select by using html tags for example: p, h1, h2 etc.
+3. Class Selector 
+	- we can select class by using .classname { }.
+	- eg. .higlight { }. 
+4. ID Selector
+	- syntax - #id{ }
+5. Attribute Selector
+	1. syntax
+6. Descendent Selector 
+7. Child Selector 
+
 
 
 
