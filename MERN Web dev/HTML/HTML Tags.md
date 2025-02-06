@@ -64,3 +64,8 @@ There are two types of elements in HTML:
 	3. "<"div">"
 34. sidebar: "<"aside">"
 35. footer: "<"footer">"
+
+### Aria tags
+Accessible Rich Internet Applications is a set of rules and attributes that makes web page or web content more accessible to people with disabilities.
+
+It is a field of study that is useful when designing banking or government websites.
