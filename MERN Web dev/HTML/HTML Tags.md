@@ -17,6 +17,9 @@
 17. "<"select">" - use to create the drop down menu.
 18. "<"option">" - use to list the options inside the drop down.
 19. "<"code">" - add dedicated space for code.
+20. "<"video">" - use to attach videos to webpage.
+21. "<"video control">" - use to attach video and provides various control keys.
+22. "<"video control controlslist "" ">" - use to attach video and add or remove various controls keys.
 
 
 			    		<html>
@@ -31,8 +34,8 @@
 						        <h1>            <p>
 
 There are two types of elements in HTML:
-20. Block type element 
-21. Inline element
+23. Block type element 
+24. Inline element
 
 --> There are 6 levels of headings in HTML.
 --> emmet.io can be used to learn abbreviation that generates boilerplate.
@@ -41,23 +44,23 @@ There are two types of elements in HTML:
 
 ## Useful Abbreviations 
 
-22. ul>li"*"4 - this abbreviation is useful for creating unordered lists.
+25. ul>li"*"4 - this abbreviation is useful for creating unordered lists.
 
 ## Basics Sections of a document
 
-23. Header 
-24. Navigation bar
-25. main content
-26. sidebar
-27. footer
+26. Header 
+27. Navigation bar
+28. main content
+29. sidebar
+30. footer
 
 ### Tags used for structuring a webpage.
 
-28. header: "<"header">"
-29. navigation bar: "<"nav">"
-30. main content: "<"main">" has various sections such as:
+31. header: "<"header">"
+32. navigation bar: "<"nav">"
+33. main content: "<"main">" has various sections such as:
 	1. "<"article">" 
 	2. "<"section">"
 	3. "<"div">"
-31. sidebar: "<"aside">"
-32. footer: "<"footer">"
+34. sidebar: "<"aside">"
+35. footer: "<"footer">"
