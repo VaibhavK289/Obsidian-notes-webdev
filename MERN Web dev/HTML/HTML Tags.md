@@ -16,6 +16,7 @@
 16. "<"textarea">" - use to create a text area.
 17. "<"select">" - use to create the drop down menu.
 18. "<"option">" - use to list the options inside the drop down.
+19. "<"code">" - add dedicated space for code.
 
 
 			    		<html>
@@ -30,13 +31,33 @@
 						        <h1>            <p>
 
 There are two types of elements in HTML:
-19. Block type element 
-20. Inline element
+20. Block type element 
+21. Inline element
 
-There are 6 levels of headings in HTML.
-emmet.io can be used to learn abbreviation that generates boilerplate.
+--> There are 6 levels of headings in HTML.
+--> emmet.io can be used to learn abbreviation that generates boilerplate.
+--> placeholder is used to write temporary text inside attributes.
+--> hgroup tag is used to contain all the heading of a webpage.
 
 ## Useful Abbreviations 
 
-21. ul>li"*"4 - this abbreviation is useful for creating unordered lists.
-22. 
+22. ul>li"*"4 - this abbreviation is useful for creating unordered lists.
+
+## Basics Sections of a document
+
+23. Header 
+24. Navigation bar
+25. main content
+26. sidebar
+27. footer
+
+### Tags used for structuring a webpage.
+
+28. header: "<"header">"
+29. navigation bar: "<"nav">"
+30. main content: "<"main">" has various sections such as:
+	1. "<"article">" 
+	2. "<"section">"
+	3. "<"div">"
+31. sidebar: "<"aside">"
+32. footer: "<"footer">"
