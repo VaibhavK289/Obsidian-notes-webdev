@@ -20,6 +20,8 @@
 20. "<"video">" - use to attach videos to webpage.
 21. "<"video control">" - use to attach video and provides various control keys.
 22. "<"video control controlslist "" ">" - use to attach video and add or remove various controls keys.
+23. "<"action">" - used to specify where data will be send after the form is submitted.
+24. "<"audio">" - use to attach an audio file in the webpage.
 
 
 			    		<html>
@@ -34,8 +36,8 @@
 						        <h1>            <p>
 
 There are two types of elements in HTML:
-23. Block type element 
-24. Inline element
+25. Block type element 
+26. Inline element
 
 --> There are 6 levels of headings in HTML.
 --> emmet.io can be used to learn abbreviation that generates boilerplate.
@@ -44,26 +46,26 @@ There are two types of elements in HTML:
 
 ## Useful Abbreviations 
 
-25. ul>li"*"4 - this abbreviation is useful for creating unordered lists.
+27. ul>li"*"4 - this abbreviation is useful for creating unordered lists.
 
 ## Basics Sections of a document
 
-26. Header 
-27. Navigation bar
-28. main content
-29. sidebar
-30. footer
+28. Header 
+29. Navigation bar
+30. main content
+31. sidebar
+32. footer
 
 ### Tags used for structuring a webpage.
 
-31. header: "<"header">"
-32. navigation bar: "<"nav">"
-33. main content: "<"main">" has various sections such as:
+33. header: "<"header">"
+34. navigation bar: "<"nav">"
+35. main content: "<"main">" has various sections such as:
 	1. "<"article">" 
 	2. "<"section">"
 	3. "<"div">"
-34. sidebar: "<"aside">"
-35. footer: "<"footer">"
+36. sidebar: "<"aside">"
+37. footer: "<"footer">"
 
 ### Aria tags
 Accessible Rich Internet Applications is a set of rules and attributes that makes web page or web content more accessible to people with disabilities.
