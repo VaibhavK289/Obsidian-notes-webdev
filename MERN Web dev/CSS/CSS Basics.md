@@ -42,9 +42,22 @@ class name starts with a . in css. It is used to bundle up different elements an
 4. ID Selector
 	- syntax - #id{ }
 5. Attribute Selector
-	1. syntax
+	- syntax - htmltag [attribute="value"] {  }
+	- example - input[type = "text"] {  }
 6. Descendent Selector 
+	- syntax - parent child { }
+	- example - article p { }
 7. Child Selector 
+	1. syntax - parent > child { }
+	2. example - div > p { }
+8. Adjacent Sibling Selector
+	1. Syntax - child + child { }
+	2. example - h1 + p { }
+9. General Sibling Selector 
+	1. Syntax - h2 ~ p { } (all the sibling of h2 that are p)
+	
+
+
 
 
 

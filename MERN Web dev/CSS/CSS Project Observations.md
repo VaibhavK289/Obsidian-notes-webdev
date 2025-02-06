@@ -15,5 +15,7 @@
 13. margins and padding go in the clockwise direction that means top right bottom left.
 	1. syntax : margin: value1 value2 value3 value4
 	2. example: margin: 10px 20px 15px 12px
-	3. It can have either 4 values or 2 values (it can also has values in that case left and right value are assumed to be same by the browser.)
+	3. It can have either 4 values or 2 values (it can also has values in that case left and right value are assumed to be same by the browser.
+14. classes are easy and efficient because they overwrite all the patterns.
+15. When we use space that means descendent selector and not grouping. For grouping use commas,
 
