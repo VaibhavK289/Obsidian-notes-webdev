@@ -18,4 +18,10 @@
 	3. It can have either 4 values or 2 values (it can also has values in that case left and right value are assumed to be same by the browser.
 14. classes are easy and efficient because they overwrite all the patterns.
 15. When we use space that means descendent selector and not grouping. For grouping use commas,
+16. list-style type is used to remove all the bullet points.
+17. display: flex; justify-content: space-around/space-between can be to used to align any list in one line.
+18. display: inline converts block elements into inline elements.
+19. display inline is a good practice.
+20. text-decoration is used to remove all the decorations and default styling from the elements.
+21. 
 
