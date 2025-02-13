@@ -23,5 +23,9 @@
 18. display: inline converts block elements into inline elements.
 19. display inline is a good practice.
 20. text-decoration is used to remove all the decorations and default styling from the elements.
-21. 
+21. ::after is a pseudo element which allows to insert content after the selected element.
+	1. therefore, .nav a::after - targets all the anchor(links) elements within the .nav class and adds content after them.
+	2. .nav a:hover::after -  applies the pseudo only when the link is hovered over.
+	3. .nav a:hover::after - to modify the ::after content when the link is hovered over.
+	4. After property should always have content property in it.
 
