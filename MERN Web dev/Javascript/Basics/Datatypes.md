@@ -36,6 +36,9 @@ Note:
 8. String interapolation - we can use the syntax ` hello ${varible_name}` to use variables inside a string definition.
 9. symbol() method can be used to define a symbol.
 10. Symbols guarantees uniqueness and it can be used to add a unique property key.
+11. We can access the properties inside an object by using a '.'.
+12. if an object is defined as a constant then also we can change value of properties inside of that object because the memory block is same only the values are changing.
+13. [" "] - this notation can also be used to access the members inside an object.
 
 
 
