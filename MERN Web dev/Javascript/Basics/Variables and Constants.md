@@ -15,3 +15,8 @@ If value of variable is not defined then:
 1. using console.log() will give a reference error and value will be undefined.
 2. using console.table([]) will not give error instead value of the variable will be printed as undefined.
 
+Note: First define variables as const and if in future the value of that variable needs to be changed then convert const into let.
+
+&& ---> and 
+|| ---> or
+
