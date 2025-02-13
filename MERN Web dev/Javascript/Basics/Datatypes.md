@@ -10,3 +10,17 @@ there are 8 datatypes in javascript
 7. Symbol
 8. Bigint
 
+There are two types of datatypes in javascript 
+
+							Datatypes 
+								|
+								|
+		----------------------------------------------------
+		|                                                  |
+	Primitive                                          Non-primitive
+		|                                                  |
+	-------------------------                            objects
+	|String, Boolean, Number|                              |
+	|null, undefined, symbol|              ----------------------------
+	-------------------------             | arrays, function, objects |
+	                                    ---------------------------
