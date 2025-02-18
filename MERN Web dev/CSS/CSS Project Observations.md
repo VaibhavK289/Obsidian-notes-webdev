@@ -46,5 +46,7 @@
 	2. grid-template-columns and grid-template-rows can be used to control the sizing of the grid.
 	3. repeat() method in grid-template can be used to repeat size of grid when adding new elements.
 	4. Inner elements can also be controlled using a grid.
+	5. inside the element class - grid-rows and grid-columns method can be used to control style and design of the grid elements. 
+	6. display : grid is used to initiate the grid without it elements does not act like grid.
 
 
