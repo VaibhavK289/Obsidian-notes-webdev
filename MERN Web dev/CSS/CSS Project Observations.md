@@ -28,4 +28,5 @@
 	2. .nav a:hover::after -  applies the pseudo only when the link is hovered over.
 	3. .nav a:hover::after - to modify the ::after content when the link is hovered over.
 	4. After property should always have content property in it.
+22. What is the difference between position relative and position absolute. (for creating a dropdown menu we use position absolute.)
 
