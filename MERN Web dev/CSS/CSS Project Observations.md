@@ -29,4 +29,16 @@
 	3. .nav a:hover::after - to modify the ::after content when the link is hovered over.
 	4. After property should always have content property in it.
 22. What is the difference between position relative and position absolute. (for creating a dropdown menu we use position absolute.)
+23. React native use flex box.
+24. Flex direction - column-reverse and row-reverse is used to reverse the direction of the elements inside the flex property.
+25. Justify controls from left to right.
+26. Difference between space around and space between is that in space around the space is inserted around the element i.e both sides of first and last element whereas, in space between the space is inserted only between the elements therefore the first and last element will be close to left and right side margins.
+27. Align items is used to align items inside the container. It moves element from top to bottom only.
+28. Flex wrap is used so that the content automatically moves to different row when aspect ratio of the page is changed. It prevents squishing of the content.
+29. Align content property can be used with flex wrap to give content equal space.
+30. Flex property creates a container and controls the design of child elements through that container.
+31. order property can be used to control each child and decide suitable order like an ordered list.
+32. Flex grow property can be used to decide the ratio of each element.
+33. Align-self property can be used to align each item vertically according to the needs.
+
 
