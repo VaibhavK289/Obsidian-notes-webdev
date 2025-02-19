@@ -48,5 +48,14 @@
 	4. Inner elements can also be controlled using a grid.
 	5. inside the element class - grid-rows and grid-columns method can be used to control style and design of the grid elements. 
 	6. display : grid is used to initiate the grid without it elements does not act like grid.
+	7. Twitter style layout 
+	8. Grid-template-areas: 'header header header' 'sidebar main main' 'footer footer footer' - this syntax is used to create different areas occupied by header, main body sidebar and footer.
+	9. autofit property can be used to auto-allocate the space needed by every element.It is used along with another property called minmax.
+	10. We can also use nested grid columns.
+	11. Grid auto rows automatically controls the height of the elements
+26. Bento box is a special design for the design of the webpage.
+27. fontawesome.com is used to add icons
+28. codepen gives cards and inspiration for html, css for webpages.
+
 
 
