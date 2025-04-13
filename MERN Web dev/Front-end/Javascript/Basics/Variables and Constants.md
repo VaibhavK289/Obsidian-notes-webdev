@@ -20,3 +20,7 @@ Note: First define variables as const and if in future the value of that variabl
 && ---> and 
 || ---> or
 
+Null and 0 are different values.
+
+Undefined is a type in itself whereas null is an object.
+
